@@ -1,0 +1,8 @@
+# Melindungi API Key
+config/config.php
+
+# File environment
+.env
+
+# File sementara
+*.log
